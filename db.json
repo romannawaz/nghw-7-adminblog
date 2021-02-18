@@ -1,0 +1,11 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "text": "First Blog text",
+      "date": "2021-02-17T10:02:14.113Z",
+      "author": "Author",
+      "id": 1
+    }
+  ]
+}
